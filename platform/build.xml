@@ -200,7 +200,7 @@
                 zip.name="hybris-commerce-suite-apidoc"/>
         <callback extname="" target="after_api"/>
     </target>
-
+<!-- new style junit targets, see https://wiki.hybris.com/display/release4/Test+Framework+Enhancements -->
 
     <!-- new style junit targets, see https://wiki.hybris.com/display/release4/Test+Framework+Enhancements -->
     <target name="unittests" description="executes all unittests">
