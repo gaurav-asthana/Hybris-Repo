@@ -12,7 +12,7 @@
 
 
 -->
-
+<!-- Dummy-->
 <project name="platform" default="all" basedir=".">
     <tstamp/>
     <property name="platformhome" location="."/>
